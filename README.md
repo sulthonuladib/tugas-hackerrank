@@ -8,7 +8,7 @@ Dengan soal dari [Hackerrank](https://www.hackerrank.com)
 - [x] [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
 - [x] [Grading](https://www.hackerrank.com/challenges/grading/problem)
 * Tugas Array 2 Dimensi
-- [ ] [2D Array](https://www.hackerrank.com/challenges/2d-array/problem)
+- [x] [2D Array](https://www.hackerrank.com/challenges/2d-array/problem)
 
 ### Run di IDE
 - Clone atau download repo ini
