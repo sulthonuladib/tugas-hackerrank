@@ -5,7 +5,7 @@ Dengan soal dari https://hackerrank.com
 Setiap file / class memiliki konfigurasi run sendiri2 karena memiliki environment variable yang berbeda-beda
 
 ### Submit di hackerrank
-Copy paste kode dan ganti nama Class menjadi Solution
+Copy paste kode dan ganti nama Class menjadi Solution atau sama kan dengan soal di hackerrank. Bisa juga copy function nya saja
 
 ### About me
 [Sulthonul Adib](https://github.com/sulthonuladib)
