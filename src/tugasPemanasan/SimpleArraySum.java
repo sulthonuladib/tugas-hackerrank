@@ -48,3 +48,4 @@ public class SimpleArraySum {
         bufferedWriter.close();
     }
 }
+
