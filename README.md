@@ -13,6 +13,7 @@ Dengan soal dari [Hackerrank](https://www.hackerrank.com)
 ### Run di IDE
 - Clone atau download repo ini
 - Setiap file / class memiliki konfigurasi run sendiri2 karena memiliki environment variable yang berbeda-beda
+- Terkadang konfigurasi IDE untuk run tidak keluar, bisa set environment variable "OUTPUT_PATH" untuk beberapa soal.
 
 ### Submit di hackerrank
 - Copy paste kode dan ganti nama Class menjadi Solution atau sama kan dengan soal di hackerrank. Bisa juga copy function nya saja
