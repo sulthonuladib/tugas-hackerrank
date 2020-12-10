@@ -11,9 +11,17 @@ public class DesignerPDFViewer {
 
     // Complete the designerPdfViewer function below.
     static int designerPdfViewer(int[] h, String word) {
+        int maxHeight = 0;
+        int result;
 
-        
+        for (int i = 0; i < word.length(); i++) {
+            if (maxHeight < h[word.charAt(i) - 97]) {
+                maxHeight = h[word.charAt(i) - 97];
+            }
+        }
 
+        result = word.length() * maxHeight;
+        return result;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
