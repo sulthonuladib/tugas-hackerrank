@@ -12,7 +12,7 @@ Dengan soal dari [Hackerrank](https://www.hackerrank.com)
 - [x] [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 - [x] [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 - [x] [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
-- [x] [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [x] [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 ### Run di IDE
 - Clone atau download repo ini
