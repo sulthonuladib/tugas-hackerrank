@@ -9,10 +9,10 @@ Dengan soal dari [Hackerrank](https://www.hackerrank.com)
 - [x] [Grading](https://www.hackerrank.com/challenges/grading/problem)
 - [x] [2D Array](https://www.hackerrank.com/challenges/2d-array/problem)
 * Tugas 11
-- [x] [2D Array](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
-- [x] [2D Array](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
-- [x] [2D Array](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
-- [x] [2D Array](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [x] [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+- [x] [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [x] [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [x] [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 ### Run di IDE
 - Clone atau download repo ini
