@@ -1,14 +1,18 @@
-# Dokumentasi Tugas Pemrograman Dasar Politeknik Negeri Jember
+# Tugas Pemrograman Dasar Politeknik Negeri Jember
 Dengan soal dari [Hackerrank](https://www.hackerrank.com)
 
 ### Link Soal
-* Tugas Pemanasan
+* Tugas 10
 - [x] [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [x] [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 - [x] [Staircase](https://www.hackerrank.com/challenges/staircase/problem)
 - [x] [Grading](https://www.hackerrank.com/challenges/grading/problem)
-* Tugas Array 2 Dimensi
 - [x] [2D Array](https://www.hackerrank.com/challenges/2d-array/problem)
+* Tugas 11
+- [x] [2D Array](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
+- [x] [2D Array](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+- [x] [2D Array](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
+- [x] [2D Array](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 ### Run di IDE
 - Clone atau download repo ini
